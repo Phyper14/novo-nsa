@@ -1,0 +1,16 @@
+E:\Documentos\Projetos\DotNet\teste\DIO\bin\Debug\net5.0\DIO.exe
+E:\Documentos\Projetos\DotNet\teste\DIO\bin\Debug\net5.0\DIO.deps.json
+E:\Documentos\Projetos\DotNet\teste\DIO\bin\Debug\net5.0\DIO.runtimeconfig.json
+E:\Documentos\Projetos\DotNet\teste\DIO\bin\Debug\net5.0\DIO.runtimeconfig.dev.json
+E:\Documentos\Projetos\DotNet\teste\DIO\bin\Debug\net5.0\DIO.dll
+E:\Documentos\Projetos\DotNet\teste\DIO\bin\Debug\net5.0\ref\DIO.dll
+E:\Documentos\Projetos\DotNet\teste\DIO\bin\Debug\net5.0\DIO.pdb
+E:\Documentos\Projetos\DotNet\teste\DIO\obj\Debug\net5.0\DIO.csprojAssemblyReference.cache
+E:\Documentos\Projetos\DotNet\teste\DIO\obj\Debug\net5.0\DIO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Projetos\DotNet\teste\DIO\obj\Debug\net5.0\DIO.AssemblyInfoInputs.cache
+E:\Documentos\Projetos\DotNet\teste\DIO\obj\Debug\net5.0\DIO.AssemblyInfo.cs
+E:\Documentos\Projetos\DotNet\teste\DIO\obj\Debug\net5.0\DIO.csproj.CoreCompileInputs.cache
+E:\Documentos\Projetos\DotNet\teste\DIO\obj\Debug\net5.0\DIO.dll
+E:\Documentos\Projetos\DotNet\teste\DIO\obj\Debug\net5.0\ref\DIO.dll
+E:\Documentos\Projetos\DotNet\teste\DIO\obj\Debug\net5.0\DIO.pdb
+E:\Documentos\Projetos\DotNet\teste\DIO\obj\Debug\net5.0\DIO.genruntimeconfig.cache
